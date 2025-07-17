@@ -5,6 +5,8 @@ layout: default
 
 ## 2025
 
+- 12 Juillet : [Triathlon Altriman](./2025_07_12_Altriman.md)
+
 - 7 Juin : [Triathlon Alpsman](./2025_06_07_Alpsman.md)
 
 ## 2024
